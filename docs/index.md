@@ -1,6 +1,6 @@
 # Obsidian Notes
 
-Publish your public notes with MkDocs
+1. [[Watching List]] : List to watching , movie and tv
 
 ## Hello World!
 

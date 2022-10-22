@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-22.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2022-10-22.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2022-10-22.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2022-10-22.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -141,7 +141,9 @@
   },
   "active": "4cc77fbfd023e9f4",
   "lastOpenFiles": [
+    "Daily Notes/2022-10-22.md",
     "docs/index.md",
+    "Watching List.md",
     "2021-11-22-22-54-02.png",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
