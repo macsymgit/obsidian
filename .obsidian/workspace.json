@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/Travel/Around Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/Travel/Around Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/Travel/Around Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Features/Text Formatting.md"
+                "file": "docs/Travel/Around Area.md"
               }
             }
           }
@@ -141,8 +141,8 @@
   },
   "active": "7d2e02209502b79c",
   "lastOpenFiles": [
-    "docs/Features/LaTeX Math Support.md",
     "docs/Features/Text Formatting.md",
+    "docs/Features/LaTeX Math Support.md",
     "docs/Features/Mermaid Diagrams.md",
     "docs/Travel/Around Area.md",
     "docs/index.md",
