@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d49c64405547252",
+        "id": "0b73e964b86f8c55",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc77fbfd023e9f4",
+            "id": "7d2e02209502b79c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/entertainment/Watching List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/entertainment/Watching List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/entertainment/Watching List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/entertainment/Watching List.md"
               }
             }
           }
@@ -139,16 +139,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4cc77fbfd023e9f4",
+  "active": "7d2e02209502b79c",
   "lastOpenFiles": [
+    "docs/Topic 1/Note 1.md",
+    "docs/Features/Mermaid Diagrams.md",
+    "docs/Topic 1/Note 2.md",
+    "docs/entertainment/Watching List.md",
     "docs/index.md",
     "Daily Notes/2022-10-22.md",
-    "docs/entertainment/Watching List.md",
     "2021-11-22-22-54-02.png",
-    "docs/Topic 1/Note 2.md",
-    "docs/Topic 1/Note 1.md",
     "2021-11-22-22-49-26.png",
-    "docs/Features/Text Formatting.md",
-    "docs/Features/Mermaid Diagrams.md"
+    "docs/Features/Text Formatting.md"
   ]
 }
