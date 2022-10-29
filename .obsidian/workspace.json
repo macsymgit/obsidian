@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/entertainment/Watching List.md",
+                "file": "docs/Home/Cooking/chicken/Chicken Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532bea193f27431e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Investment/GIC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/entertainment/Watching List.md",
+                "file": "docs/Home/Investment/GIC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/entertainment/Watching List.md",
+                "file": "docs/Home/Investment/GIC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/entertainment/Watching List.md"
+                "file": "docs/Home/Investment/GIC.md"
               }
             }
           }
@@ -164,17 +176,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "64ac97c76cf07d94",
+  "active": "532bea193f27431e",
   "lastOpenFiles": [
-    "docs/Kids/Study/Tools.md",
-    "docs/index.md",
     "docs/Home/Cooking/chicken/Chicken Recipes.md",
+    "docs/Kids/Study/Tools.md",
+    "docs/entertainment/Watching List.md",
+    "docs/index.md",
     "docs/Travel/Around Area.md",
     "Daily Notes/2022-10-24.md",
     "docs/Features/Text Formatting.md",
     "docs/Features/LaTeX Math Support.md",
     "docs/Features/Mermaid Diagrams.md",
-    "Daily Notes/2022-10-23.md",
-    "docs/Topic 1/Note 2.md"
+    "Daily Notes/2022-10-23.md"
   ]
 }
