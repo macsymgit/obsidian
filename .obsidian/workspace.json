@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Study/Tools.md",
+                "file": "docs/entertainment/Watching List.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Study/Tools.md",
+                "file": "docs/entertainment/Watching List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Study/Tools.md",
+                "file": "docs/entertainment/Watching List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Study/Tools.md"
+                "file": "docs/entertainment/Watching List.md"
               }
             }
           }
@@ -166,10 +166,10 @@
   },
   "active": "64ac97c76cf07d94",
   "lastOpenFiles": [
+    "docs/Kids/Study/Tools.md",
     "docs/index.md",
     "docs/Home/Cooking/chicken/Chicken Recipes.md",
     "docs/Travel/Around Area.md",
-    "docs/Kids/Study/Tools.md",
     "Daily Notes/2022-10-24.md",
     "docs/Features/Text Formatting.md",
     "docs/Features/LaTeX Math Support.md",
