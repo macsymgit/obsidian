@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7aaa89989ff96d57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,10 +183,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "532bea193f27431e",
+  "active": "7aaa89989ff96d57",
   "lastOpenFiles": [
     "docs/Home/Cooking/chicken/Chicken Recipes.md",
     "docs/Kids/Study/Tools.md",
