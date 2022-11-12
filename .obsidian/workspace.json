@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0b73e964b86f8c55",
+        "id": "fa8da51e98a638a7",
         "type": "tabs",
         "children": [
           {
-            "id": "7d2e02209502b79c",
+            "id": "929b5ad47ae0cad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2022-10-24.md",
+                "file": "docs/Job/IT/Shopify.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ba91414602a0cf79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64ac97c76cf07d94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/chicken/Chicken Recipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "532bea193f27431e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Investment/GIC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7aaa89989ff96d57",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Investment/GIC.md",
+                "file": "docs/Job/IT/Shopify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Investment/GIC.md",
+                "file": "docs/Job/IT/Shopify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Investment/GIC.md"
+                "file": "docs/Job/IT/Shopify.md"
               }
             }
           }
@@ -183,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7aaa89989ff96d57",
+  "active": "929b5ad47ae0cad2",
   "lastOpenFiles": [
+    "docs/Home/Investment/GIC.md",
     "docs/Home/Cooking/chicken/Chicken Recipes.md",
     "docs/Kids/Study/Tools.md",
     "docs/entertainment/Watching List.md",
@@ -193,7 +147,6 @@
     "Daily Notes/2022-10-24.md",
     "docs/Features/Text Formatting.md",
     "docs/Features/LaTeX Math Support.md",
-    "docs/Features/Mermaid Diagrams.md",
-    "Daily Notes/2022-10-23.md"
+    "docs/Features/Mermaid Diagrams.md"
   ]
 }
