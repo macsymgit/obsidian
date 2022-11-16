@@ -1,1 +1,3 @@
 - [ ]  [never ever days](https://nevereverdays.ca/)
+- [ ] Bruce G2 Exam
+- [ ] 
