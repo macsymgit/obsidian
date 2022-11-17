@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6cb3ae45f40af125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Braindump.md",
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Braindump.md",
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Braindump.md"
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md"
               }
             }
           }
@@ -149,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1e87ff42d0cb6181",
+  "active": "6cb3ae45f40af125",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Chicken Recipes.md",
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
+    "docs/Home/Braindump.md",
     "docs/Job/IT/Shopify.md",
     "docs/Home/Investment/GIC.md",
-    "docs/Home/Cooking/chicken/Chicken Recipes.md",
     "docs/Kids/Study/Tools.md",
     "docs/entertainment/Watching List.md",
     "docs/index.md",
     "docs/Travel/Around Area.md",
-    "Daily Notes/2022-10-24.md",
-    "docs/Features/Text Formatting.md",
-    "docs/Features/LaTeX Math Support.md"
+    "Daily Notes/2022-10-24.md"
   ]
 }
