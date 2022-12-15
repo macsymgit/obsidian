@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa8da51e98a638a7",
+        "id": "26cc2cae00b0de8d",
         "type": "tabs",
         "children": [
           {
-            "id": "929b5ad47ae0cad2",
+            "id": "1fa94ccb6b45dc49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Job/IT/Shopify.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e87ff42d0cb6181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Braindump.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cb3ae45f40af125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c18683902147124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,13 +128,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c18683902147124",
+  "active": "1fa94ccb6b45dc49",
   "lastOpenFiles": [
-    "docs/Home/Cooking/Dishes/Chicken Recipes.md",
-    "docs/Home/Cooking/Dishes/Pork Recipes.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
-    "docs/Home/Braindump.md",
     "docs/Job/IT/Shopify.md",
+    "docs/Home/Braindump.md",
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
+    "docs/Home/Cooking/Dishes/Pork Recipes.md",
+    "docs/Home/Cooking/Dishes/Chicken Recipes.md",
     "docs/Home/Investment/GIC.md",
     "docs/Kids/Study/Tools.md",
     "docs/entertainment/Watching List.md",
