@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9dca2d1ead104137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12f6a47cb2f1bde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md"
               }
             }
           }
@@ -136,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fa94ccb6b45dc49",
+  "active": "12f6a47cb2f1bde9",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Fish.md",
+    "docs/Home/Cooking/Dishes/Sea Food.md",
+    "docs/Home/Cooking/Dishes/Pork Recipes.md",
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/Job/IT/Shopify.md",
     "docs/Home/Braindump.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
-    "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Cooking/Dishes/Chicken Recipes.md",
     "docs/Home/Investment/GIC.md",
     "docs/Kids/Study/Tools.md",
-    "docs/entertainment/Watching List.md",
-    "docs/index.md",
-    "docs/Travel/Around Area.md"
+    "docs/entertainment/Watching List.md"
   ]
 }
