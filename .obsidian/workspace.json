@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccb1553eb8027f1a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12f6a47cb2f1bde9",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ccb1553eb8027f1a",
   "lastOpenFiles": [
     "docs/Home/Cooking/Dishes/Fish.md",
     "docs/Home/Cooking/Dishes/Sea Food.md",
