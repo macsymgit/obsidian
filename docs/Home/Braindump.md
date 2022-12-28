@@ -1,4 +1,0 @@
-- [ ]  [never ever days](https://nevereverdays.ca/)
-- [ ] Bruce G2 Exam
-- [ ] Next Leon Tuesday, January 24, 2023 at 4:15 PM
-- [ ] 

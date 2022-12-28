@@ -6,3 +6,11 @@
 
 1. [[Around Area]]
 
+
+# Cooking
+- [[Fish]]
+- [[Sea Food]]
+- [[Pork Recipes]]
+- [[Beef Recipes]]
+- [[Chicken Recipes]]
+
