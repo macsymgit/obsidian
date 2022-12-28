@@ -12,7 +12,7 @@ kanban-plugin: basic
 
 ## Doing
 
-- [ ] Hunting  License 4169028928
+- [ ] Hunting  License 4169028928 wife
 
 
 ## Done

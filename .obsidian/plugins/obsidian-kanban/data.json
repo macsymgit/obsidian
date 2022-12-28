@@ -1,4 +1,5 @@
 {
   "show-relative-date": true,
-  "new-note-folder": "Daily Notes"
+  "new-note-folder": "Daily Notes",
+  "max-archive-size": 250
 }
