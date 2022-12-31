@@ -8,16 +8,19 @@ kanban-plugin: basic
 
 - [ ] Check Water Tank Cancel Fee
 - [ ] Bruce G2 Exam
+- [ ] Leon Cadets
+- [ ] Blood donation
+- [ ] Grass cut cancel
 
 
 ## Doing
 
-- [ ] Hunting  License 4169028928 wife
 
 
 ## Done
 
 **Complete**
+- [x] Hunting  License 4169028928 wife
 
 
 ## Archieve
