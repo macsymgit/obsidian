@@ -16,8 +16,21 @@
                 "file": "Daily Notes/Macsym Kanban.md"
               }
             }
+          },
+          {
+            "id": "6436016e50915391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/furniture/Mattress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md",
+                "file": "docs/Home/furniture/Mattress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md",
+                "file": "docs/Home/furniture/Mattress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md"
+                "file": "docs/Home/furniture/Mattress.md"
               }
             }
           }
@@ -144,12 +157,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6e36077a971a83",
+  "active": "6436016e50915391",
   "lastOpenFiles": [
+    "Daily Notes/Macsym Kanban.md",
     "docs/Home/Braindump.md",
     "docs/index.md",
     "docs/entertainment/Watching List.md",
-    "Daily Notes/Macsym Kanban.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Cooking/Dishes/Sea Food.md",
     "docs/Home/Cooking/Dishes/Fish.md",
