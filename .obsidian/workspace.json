@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/furniture/Mattress.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/furniture/Mattress.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/furniture/Mattress.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/furniture/Mattress.md"
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
               }
             }
           }
@@ -159,6 +159,8 @@
   },
   "active": "6436016e50915391",
   "lastOpenFiles": [
+    "docs/Kids/Study/Tools.md",
+    "docs/Home/furniture/Mattress.md",
     "Daily Notes/Macsym Kanban.md",
     "docs/Home/Braindump.md",
     "docs/index.md",
@@ -166,8 +168,6 @@
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Cooking/Dishes/Sea Food.md",
     "docs/Home/Cooking/Dishes/Fish.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
-    "docs/Job/IT/Shopify.md",
-    "docs/Home/Cooking/Dishes/Chicken Recipes.md"
+    "docs/Home/Cooking/Dishes/Beef Recipes.md"
   ]
 }
