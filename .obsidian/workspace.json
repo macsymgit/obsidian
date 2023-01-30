@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2301fe362fbc1ca9",
+        "id": "d06661d323c689b1",
         "type": "tabs",
         "children": [
           {
-            "id": "06051ca92ffffd91",
+            "id": "711a565ec1c1beea",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md"
-              }
-            }
-          },
-          {
-            "id": "6436016e50915391",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Daily Notes/Macsym Kanban.md"
+                "file": "docs/Home/Others/Documents.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md",
+                "file": "docs/Home/Others/Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md",
+                "file": "docs/Home/Others/Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md"
+                "file": "docs/Home/Others/Documents.md"
               }
             }
           }
@@ -155,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6436016e50915391",
+  "active": "711a565ec1c1beea",
   "lastOpenFiles": [
+    "Daily Notes/Macsym Kanban.md",
+    "docs/Travel/Around Area.md",
+    "docs/Home/Others/Documents.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Kids/Study/Tools.md",
     "docs/Home/furniture/Mattress.md",
-    "Daily Notes/Macsym Kanban.md",
     "docs/Home/Braindump.md",
     "docs/index.md",
     "docs/entertainment/Watching List.md",
-    "docs/Home/Cooking/Dishes/Sea Food.md",
-    "docs/Home/Cooking/Dishes/Fish.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md"
+    "docs/Home/Cooking/Dishes/Sea Food.md"
   ]
 }
