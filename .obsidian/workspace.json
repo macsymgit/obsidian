@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e67fb4973bf090b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/IT/小工具.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Others/Documents.md",
+                "file": "docs/Home/IT/小工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Others/Documents.md",
+                "file": "docs/Home/IT/小工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Others/Documents.md"
+                "file": "docs/Home/IT/小工具.md"
               }
             }
           }
@@ -146,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "711a565ec1c1beea",
+  "active": "0e67fb4973bf090b",
   "lastOpenFiles": [
+    "docs/Home/Others/Documents.md",
     "Daily Notes/Macsym Kanban.md",
     "docs/Travel/Around Area.md",
-    "docs/Home/Others/Documents.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Kids/Study/Tools.md",
     "docs/Home/furniture/Mattress.md",
