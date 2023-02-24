@@ -7,12 +7,11 @@ kanban-plugin: basic
 ## Todo
 
 - [ ] Bruce G2 Exam
-- [ ] Blood donation
-- [ ] Grass cut cancel
 
 
 ## Doing
 
+- [ ] Grass cut cancel
 
 
 ## Done
@@ -21,6 +20,7 @@ kanban-plugin: basic
 - [x] Hunting  License 4169028928 wife
 - [x] Leon Cadets
 - [x] Check Water Tank Cancel Fee
+- [x] Blood donation
 
 
 ## Archieve
