@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3278fe45488e50f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee78e2326e228c8",
+  "active": "f3278fe45488e50f",
   "lastOpenFiles": [
     "docs/Home/IT/小工具.md",
     "Daily Notes/2022-10-22.md",
