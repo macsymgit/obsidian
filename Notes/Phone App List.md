@@ -18,5 +18,7 @@ Paiactive: for UMIDIGI watch  iflugirl@yahoo.com/zip
 
 CloudEdge(backyard camera): iflugirl@yahoo.com/OlfbP6U7hHFo8a
 
-JYouPro:  for new PDD blue watch
+JYouPro:  for new PDD blue watch  iflugirl@yahoo.com/zip
+
+
 
