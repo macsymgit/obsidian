@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d3711ef496d4f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Phone App List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/IT/小工具.md",
+                "file": "Notes/Phone App List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/IT/小工具.md",
+                "file": "Notes/Phone App List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/IT/小工具.md"
+                "file": "Notes/Phone App List.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee78e2326e228c8",
+  "active": "6d3711ef496d4f57",
   "lastOpenFiles": [
-    "docs/Features/Text Formatting.md",
     "docs/Home/IT/小工具.md",
+    "Notes/Phone App List.md",
+    "docs/Features/Text Formatting.md",
     "Daily Notes/2022-10-22.md",
     "Daily Notes/2022-10-23.md",
     "Daily Notes/2022-10-24.md",
