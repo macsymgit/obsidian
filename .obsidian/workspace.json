@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/Home/IT/小工具.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "f3278fe45488e50f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/Home/IT/小工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/Home/IT/小工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Features/Text Formatting.md"
+                "file": "docs/Home/IT/小工具.md"
               }
             }
           }
@@ -157,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3278fe45488e50f",
+  "active": "6ee78e2326e228c8",
   "lastOpenFiles": [
+    "docs/Features/Text Formatting.md",
     "docs/Home/IT/小工具.md",
     "Daily Notes/2022-10-22.md",
     "Daily Notes/2022-10-23.md",
