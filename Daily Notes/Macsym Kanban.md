@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Bruce G2 Exam
 
 
 ## Doing
 
 - [ ] Grass cut cancel
+- [ ] Bruce G2 Exam
 
 
 ## Done
