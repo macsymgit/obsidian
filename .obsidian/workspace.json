@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/IT/小工具.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3711ef496d4f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Phone App List.md",
+                "file": "docs/Home/Cooking/Dishes/Chicken Recipes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Phone App List.md",
+                "file": "docs/Home/Cooking/Dishes/Chicken Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Phone App List.md",
+                "file": "docs/Home/Cooking/Dishes/Chicken Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Phone App List.md"
+                "file": "docs/Home/Cooking/Dishes/Chicken Recipes.md"
               }
             }
           }
@@ -159,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d3711ef496d4f57",
+  "active": "6ee78e2326e228c8",
   "lastOpenFiles": [
-    "docs/Home/IT/小工具.md",
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
+    "docs/Home/Cooking/Dishes/Fish.md",
     "Notes/Phone App List.md",
+    "docs/Home/IT/小工具.md",
     "docs/Features/Text Formatting.md",
     "Daily Notes/2022-10-22.md",
     "Daily Notes/2022-10-23.md",
