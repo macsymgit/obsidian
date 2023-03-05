@@ -11,13 +11,52 @@
             "id": "6ee78e2326e228c8",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md"
+                "file": "Daily Notes/2023-03-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9beb0e6115c5c687",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Travel/Around Area.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08b0abc296dd3344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Travel/BC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d194e554fc72332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Kids/Career/Major.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -83,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md",
+                "file": "docs/Kids/Career/Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md",
+                "file": "docs/Kids/Career/Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Macsym Kanban.md"
+                "file": "docs/Kids/Career/Major.md"
               }
             }
           }
@@ -144,8 +183,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ee78e2326e228c8",
+  "active": "0d194e554fc72332",
   "lastOpenFiles": [
+    "docs/Travel/BC.md",
+    "docs/Kids/Career/Major.md",
+    "docs/Travel/Around Area.md",
+    "docs/Home/Decoration/Tools.md",
+    "docs/Home/Others/Documents.md",
+    "docs/Home/Decoration",
+    "docs/Travel/Restaurant.md",
+    "docs/Kids/Career/Jobs.md",
+    "Daily Notes/2023-03-05.md",
+    "docs/Kids/Career",
+    "Daily Notes/Macsym Kanban.md",
     "Daily Notes/2022-10-23.md",
     "Daily Notes/2022-10-24.md",
     "docs/Home/Cooking/Dishes/Chicken Recipes.md",
@@ -155,10 +205,7 @@
     "docs/Home/IT/小工具.md",
     "docs/Features/Text Formatting.md",
     "Daily Notes/2022-10-22.md",
-    "Daily Notes/Macsym Kanban.md",
     "docs/entertainment/Watching List.md",
-    "docs/Home/Others/Documents.md",
-    "docs/Travel/Around Area.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Kids/Study/Tools.md"
   ]
