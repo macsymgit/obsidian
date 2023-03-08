@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78d9bebb1a523aef",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -183,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d194e554fc72332",
+  "active": "78d9bebb1a523aef",
   "lastOpenFiles": [
     "docs/Travel/BC.md",
     "docs/Kids/Career/Major.md",
