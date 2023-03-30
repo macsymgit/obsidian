@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c6d041f436145c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2af8e65c17b6626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Decoration/Roof/Knowledge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
+                "file": "docs/Home/Decoration/Roof/Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
+                "file": "docs/Home/Decoration/Roof/Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md"
+                "file": "docs/Home/Decoration/Roof/Knowledge.md"
               }
             }
           }
@@ -171,10 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63a65e34774e252e",
+  "active": "f2af8e65c17b6626",
   "lastOpenFiles": [
-    "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
+    "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
+    "docs/Home/Decoration/Roof/Knowledge.md",
+    "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
     "docs/Home/Decoration/Tools.md",
@@ -199,7 +225,6 @@
     "docs/Features/Text Formatting.md",
     "Daily Notes/2022-10-22.md",
     "docs/entertainment/Watching List.md",
-    "docs/Home/Cooking/Dishes/Pork Recipes.md",
-    "docs/Kids/Study/Tools.md"
+    "docs/Home/Cooking/Dishes/Pork Recipes.md"
   ]
 }
