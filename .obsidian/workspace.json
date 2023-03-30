@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfd7ec86602bc1c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a65e34774e252e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Decoration/Tools.md",
+                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Decoration/Tools.md",
+                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Decoration/Tools.md"
+                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md"
               }
             }
           }
@@ -146,15 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6e36077a971a83",
+  "active": "63a65e34774e252e",
   "lastOpenFiles": [
+    "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
+    "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
+    "docs/Home/Decoration/Roofing.md",
+    "docs/Home/Decoration/Roof",
+    "docs/Home/Decoration/Tools.md",
     "Daily Notes/Stock mindmap.md",
     "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
     "Daily Notes/2023-03-05.md",
     "docs/Travel/BC.md",
     "docs/Travel/Around Area.md",
-    "docs/Home/Decoration/Tools.md",
     "docs/Home/Others/Documents.md",
     "docs/Home/Decoration",
     "docs/Travel/Restaurant.md",
