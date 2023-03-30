@@ -17,3 +17,8 @@ mindmap-plugin: basic
 ## Dividend
 
 ## Funds
+
+## ETF
+- VOO
+- SCHD
+- QQQ
