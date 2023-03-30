@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Knowledge.md",
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1438ec8d72677ab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Knowledge.md",
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Knowledge.md",
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Knowledge.md"
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md"
               }
             }
           }
@@ -195,11 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2af8e65c17b6626",
+  "active": "1438ec8d72677ab6",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
+    "docs/Home/Cooking/Dishes/Vegetables.md",
+    "docs/Home/Investment/GIC.md",
+    "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
-    "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
@@ -218,13 +233,10 @@
     "Daily Notes/2022-10-23.md",
     "Daily Notes/2022-10-24.md",
     "docs/Home/Cooking/Dishes/Chicken Recipes.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/Home/Cooking/Dishes/Fish.md",
     "Notes/Phone App List.md",
     "docs/Home/IT/小工具.md",
     "docs/Features/Text Formatting.md",
-    "Daily Notes/2022-10-22.md",
-    "docs/entertainment/Watching List.md",
-    "docs/Home/Cooking/Dishes/Pork Recipes.md"
+    "Daily Notes/2022-10-22.md"
   ]
 }
