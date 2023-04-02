@@ -13,8 +13,15 @@ mindmap-plugin: basic
 - CAR.UN
 - DIR.UN
 - AP.UN
+- NWH.UN
+- CRR.UN
 
 ## Dividend
+- SPHD
+- KBWD
+- SDIV
+- XDIV
+- VDY
 
 ## Funds
 
@@ -22,3 +29,5 @@ mindmap-plugin: basic
 - VOO
 - SCHD
 - QQQ
+- CASH.TO
+    - No risk 4.6%

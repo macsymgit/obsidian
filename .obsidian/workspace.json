@@ -83,11 +83,9 @@
             "id": "e5181001f4f0beaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "docs/Kids/Career/Major.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily Notes/Stock mindmap.md"
               }
             }
           }
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Major.md",
+                "file": "Daily Notes/Stock mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Major.md",
+                "file": "Daily Notes/Stock mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Major.md"
+                "file": "Daily Notes/Stock mindmap.md"
               }
             }
           }
@@ -221,10 +219,13 @@
   },
   "active": "e5181001f4f0beaa",
   "lastOpenFiles": [
+    "docs/Home/Investment/GIC.md",
+    "Daily Notes/Macsym Kanban.md",
+    "Daily Notes/Stock mindmap.md",
+    "docs/Kids/Career/Major.md",
     "docs/Home/IT/ChatGPT.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
-    "docs/Home/Investment/GIC.md",
     "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
@@ -232,8 +233,6 @@
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
     "docs/Home/Decoration/Tools.md",
-    "Daily Notes/Stock mindmap.md",
-    "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
     "Daily Notes/2023-03-05.md",
     "docs/Travel/BC.md",
@@ -242,7 +241,6 @@
     "docs/Home/Decoration",
     "docs/Travel/Restaurant.md",
     "docs/Kids/Career",
-    "Daily Notes/Macsym Kanban.md",
     "Daily Notes/2022-10-23.md",
     "Daily Notes/2022-10-24.md",
     "docs/Home/Cooking/Dishes/Chicken Recipes.md",
