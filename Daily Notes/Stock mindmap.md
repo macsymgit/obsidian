@@ -32,14 +32,16 @@ mindmap-plugin: basic
 ## Funds
 - TDB627
 - VGRO
-- XUU
 
 ## ETF
 - VOO
 - SCHD
 - QQQ
+- XUU.TO
+    - S&P U.S. Total Market
 - CASH.TO
     - No risk 4.6%
-- HXE
+- HXE.TO
+    - Energy
 - VFV.TO
     - S&P 500 Index ETF
