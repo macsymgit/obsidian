@@ -22,16 +22,16 @@ mindmap-plugin: basic
     - Dividend:  5.85%
 
 ## Dividend
-- SPHD
-- KBWD
-- SDIV
-- XDIV
-- VDY
+- XDIV.TO
+- VDY.TO
+- ZWH.TO
+- ZWC.TO
+- XEI.TO
+    - S&P and TSX Composite
 
 ## Funds
 - TDB627
 - VGRO
-- VFV
 - XUU
 
 ## ETF
@@ -41,3 +41,5 @@ mindmap-plugin: basic
 - CASH.TO
     - No risk 4.6%
 - HXE
+- VFV.TO
+    - S&P 500 Index ETF
