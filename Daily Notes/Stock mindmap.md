@@ -26,8 +26,14 @@ mindmap-plugin: basic
 - VDY.TO
 - ZWH.TO
 - ZWC.TO
+    - pick
+        - Sub title
 - XEI.TO
     - S&P and TSX Composite
+- CDZ.TO
+    - Pick
+        - Sub title
+- ZGI
 
 ## Funds
 - TDB627
@@ -48,3 +54,6 @@ mindmap-plugin: basic
     - Energy
 - VFV.TO
     - S&P 500 Index ETF
+
+## Stock
+- National Bank
