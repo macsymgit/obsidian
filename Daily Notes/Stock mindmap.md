@@ -14,7 +14,6 @@ mindmap-plugin: basic
 - DIR-UN.TO
     - 工业，5年平均股息率6.20%，每股盈利(EPS)$2.60，股本回报(ROE)22.51%
     - Dividend 4.76% Pick
-    - Sub title
 - NWH.UN
     - 医疗，5年平均股息率6.90%，每股盈利(EPS)$1.96，股本回报(ROE)20.31%
     - Dividend: 9.45%
