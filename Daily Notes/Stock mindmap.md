@@ -33,6 +33,7 @@ mindmap-plugin: basic
     - Pick
 - ZGI
 - XDIV
+    - Sub title
 
 ## Funds
 - TDB627

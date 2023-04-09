@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afd32b306d351b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Decoration/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfd7ec86602bc1c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63a65e34774e252e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c6d041f436145c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2af8e65c17b6626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1438ec8d72677ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5181001f4f0beaa",
             "type": "leaf",
             "state": {
@@ -89,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,8 +146,11 @@
   },
   "active": "e5181001f4f0beaa",
   "lastOpenFiles": [
-    "docs/Home/Decoration/Roof/Knowledge.md",
+    "docs/Home/Decoration/Tools.md",
+    "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
+    "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
     "Daily Notes/Stock mindmap.md",
+    "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Others/Documents.md",
     "docs/Home/Investment/GIC.md",
     "Daily Notes/Macsym Kanban.md",
@@ -229,11 +159,8 @@
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/Home/Decoration/Roof/Contractor.md",
-    "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
-    "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
-    "docs/Home/Decoration/Tools.md",
     "docs/Kids/Career/Jobs.md",
     "Daily Notes/2023-03-05.md",
     "docs/Travel/BC.md",
