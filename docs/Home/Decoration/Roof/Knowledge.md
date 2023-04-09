@@ -9,3 +9,5 @@ Youtube
 [DIY做屋顶系列](https://www.youtube.com/watch?v=oEGTBO_NWZ0&list=PL1rlKZdgpIsWv5syjDEKJZM43aejVTwPj)
 
 
+选Architectural 的，那个比较防风。防风的采用一体的architecture shingles
+

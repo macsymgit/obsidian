@@ -83,9 +83,11 @@
             "id": "e5181001f4f0beaa",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Decoration/Roof/Knowledge.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -156,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Decoration/Roof/Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Decoration/Roof/Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Decoration/Roof/Knowledge.md"
               }
             }
           }
@@ -219,8 +221,8 @@
   },
   "active": "e5181001f4f0beaa",
   "lastOpenFiles": [
-    "docs/Home/Others/Documents.md",
     "Daily Notes/Stock mindmap.md",
+    "docs/Home/Others/Documents.md",
     "docs/Home/Investment/GIC.md",
     "Daily Notes/Macsym Kanban.md",
     "docs/Kids/Career/Major.md",
