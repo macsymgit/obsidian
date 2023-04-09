@@ -27,19 +27,17 @@ mindmap-plugin: basic
 - ZWH.TO
 - ZWC.TO
     - pick
-        - Sub title
 - XEI.TO
     - S&P and TSX Composite
 - CDZ.TO
     - Pick
-        - Sub title
 - ZGI
+- XDIV
 
 ## Funds
 - TDB627
 - VGRO
 - PGX usd
-    - Sub title
 - FPE usd
 
 ## ETF
