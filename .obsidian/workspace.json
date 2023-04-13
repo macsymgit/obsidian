@@ -11,9 +11,11 @@
             "id": "e5181001f4f0beaa",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md"
               }
             }
           }
@@ -146,18 +148,21 @@
   },
   "active": "e5181001f4f0beaa",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Vegetables.md",
+    "docs/Home/Cooking/Dishes/Pork Recipes.md",
+    "docs/Home/Cooking/Dishes/Fish.md",
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
+    "docs/Home/Cooking/Dishes/Chicken Recipes.md",
+    "Daily Notes/Stock mindmap.md",
     "docs/Home/Decoration/Tools.md",
     "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
     "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
-    "Daily Notes/Stock mindmap.md",
     "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Others/Documents.md",
     "docs/Home/Investment/GIC.md",
     "Daily Notes/Macsym Kanban.md",
     "docs/Kids/Career/Major.md",
     "docs/Home/IT/ChatGPT.md",
-    "docs/Home/Cooking/Dishes/Vegetables.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
@@ -170,10 +175,7 @@
     "docs/Kids/Career",
     "Daily Notes/2022-10-23.md",
     "Daily Notes/2022-10-24.md",
-    "docs/Home/Cooking/Dishes/Chicken Recipes.md",
-    "docs/Home/Cooking/Dishes/Fish.md",
     "Notes/Phone App List.md",
-    "docs/Home/IT/小工具.md",
-    "docs/Features/Text Formatting.md"
+    "docs/Home/IT/小工具.md"
   ]
 }
