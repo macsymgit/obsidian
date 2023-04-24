@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f4b05d081a47eb8e",
+        "id": "f9d6653dbc7865b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e5181001f4f0beaa",
+            "id": "7f4f29725caa8536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Sea Food.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5181001f4f0beaa",
+  "active": "7f4f29725caa8536",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Sea Food.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Cooking/Dishes/Fish.md",
@@ -175,7 +168,6 @@
     "docs/Kids/Career",
     "Daily Notes/2022-10-23.md",
     "Daily Notes/2022-10-24.md",
-    "Notes/Phone App List.md",
-    "docs/Home/IT/小工具.md"
+    "Notes/Phone App List.md"
   ]
 }
