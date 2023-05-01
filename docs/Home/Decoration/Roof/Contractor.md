@@ -9,3 +9,10 @@ Master's Roofing 公司. 647-981-6898
 教训三：做什么工作，用什么材料，一定要具体写进合同。我是这次是偷懒了，没有具体去了解换屋顶的具体流程。
 
 
+备选公司：
+1. [Rainbow creator roofing](https://www.rainbowcreator.ca/) 687-860-6833 (中） $280 补瓦
+Below 小红书
+2. 如意屋顶 6472846666
+3. 金达屋顶 6472622111
+
+4. 屋顶检修 [周师傅](https://www.xiaohongshu.com/user/profile/628c4b1800000000210228b1?xhsshare=CopyLink&appuid=62fce4250000000012001db7&apptime=1682967412) 6478299530 
