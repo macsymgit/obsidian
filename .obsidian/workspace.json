@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2fffc26d84b16685",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,6 +73,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5925ed77f702f55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -146,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4f29725caa8536",
+  "active": "2fffc26d84b16685",
   "lastOpenFiles": [
     "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Decoration/Tools.md",
