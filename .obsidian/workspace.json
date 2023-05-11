@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4620bb43211c2def",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12554813d08702a8",
+  "active": "4620bb43211c2def",
   "lastOpenFiles": [
     "docs/Home/Others/Documents.md",
     "docs/Home/Decoration/Repair.md",
