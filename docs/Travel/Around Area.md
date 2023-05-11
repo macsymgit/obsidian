@@ -53,3 +53,4 @@
 - ST Thomas Elevated Park (1 Centre St, St Thomas ON N5R 2Z5)  高架公园
 - Ski Garceau 类似翠湖山庄，赏枫要查缆车日期
 - Barron Canyon 小三峡， 6个小时车程， Algonquin东北角
+- Pinery Provincial Park: bike and canoe rental

@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Decoration/Repair.md",
+                "file": "docs/Travel/Around Area.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4620bb43211c2def",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Decoration/Repair.md",
+                "file": "docs/Travel/Around Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Decoration/Repair.md",
+                "file": "docs/Travel/Around Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Decoration/Repair.md"
+                "file": "docs/Travel/Around Area.md"
               }
             }
           }
@@ -165,10 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4620bb43211c2def",
+  "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Home/Others/Documents.md",
     "docs/Home/Decoration/Repair.md",
+    "docs/Home/Others/Documents.md",
     "docs/Home/Decoration/Tools.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Decoration/Roof/Contractor.md",
