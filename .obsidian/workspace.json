@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md",
+                "file": "docs/Home/Others/Next Car.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md",
+                "file": "docs/Home/Others/Next Car.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md",
+                "file": "docs/Home/Others/Next Car.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md"
+                "file": "docs/Home/Others/Next Car.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Others/Car Repair.md",
+    "docs/Home/Others/Next Car.md",
+    "docs/Home/IT/小工具.md",
+    "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Travel/Around Area.md",
     "docs/Home/Decoration/Repair.md",
     "docs/Home/Others/Documents.md",
@@ -182,8 +184,6 @@
     "Daily Notes/2023-03-05.md",
     "docs/Travel/BC.md",
     "docs/Home/Decoration",
-    "docs/Travel/Restaurant.md",
-    "docs/Kids/Career",
-    "Daily Notes/2022-10-23.md"
+    "docs/Kids/Career"
   ]
 }
