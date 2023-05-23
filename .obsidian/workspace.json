@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Contractor.md",
+                "file": "docs/Home/Others/Car Repair.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Contractor.md",
+                "file": "docs/Home/Others/Car Repair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Contractor.md",
+                "file": "docs/Home/Others/Car Repair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Decoration/Roof/Contractor.md"
+                "file": "docs/Home/Others/Car Repair.md"
               }
             }
           }
@@ -156,12 +156,13 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
+    "docs/Home/Decoration/Roof/Contractor.md",
+    "docs/Home/Others/Car Repair.md",
     "docs/Travel/Around Area.md",
     "docs/Home/Decoration/Repair.md",
     "docs/Home/Others/Documents.md",
     "docs/Home/Decoration/Tools.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
-    "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
     "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
@@ -183,7 +184,6 @@
     "docs/Home/Decoration",
     "docs/Travel/Restaurant.md",
     "docs/Kids/Career",
-    "Daily Notes/2022-10-23.md",
-    "Daily Notes/2022-10-24.md"
+    "Daily Notes/2022-10-23.md"
   ]
 }
