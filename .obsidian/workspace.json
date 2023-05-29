@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md",
+                "file": "docs/Kids/Career/Jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md",
+                "file": "docs/Kids/Career/Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md",
+                "file": "docs/Kids/Career/Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Others/Car Repair.md"
+                "file": "docs/Kids/Career/Jobs.md"
               }
             }
           }
@@ -156,9 +156,10 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
+    "docs/Kids/Career/Major.md",
+    "docs/Home/Others/Car Repair.md",
     "docs/Home/IT/小工具.md",
     "docs/Home/Others/Next Car.md",
-    "docs/Home/Others/Car Repair.md",
     "docs/Home/Decoration/Roof/Contractor.md",
     "docs/Travel/Around Area.md",
     "docs/Home/Decoration/Repair.md",
@@ -176,7 +177,6 @@
     "Daily Notes/Stock mindmap.md",
     "docs/Home/Investment/GIC.md",
     "Daily Notes/Macsym Kanban.md",
-    "docs/Kids/Career/Major.md",
     "docs/Home/IT/ChatGPT.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",

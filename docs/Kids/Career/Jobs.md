@@ -9,3 +9,5 @@ Crown Agency有点类似于中国国企的意思，它是一种兼具商业与�
 [Ontario Crown Agency](https://www.pas.gov.on.ca/home/Agencies-list)
 [Canada Crown Agency](https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/list-crown-corporations.html)
 
+二代抓紧口才训练还是很重要的
+推荐Crucial Conversations，Google内部也作为培训教材
