@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "168a3778b488b7df",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12554813d08702a8",
+  "active": "168a3778b488b7df",
   "lastOpenFiles": [
     "docs/Kids/Career/Major.md",
     "docs/Home/Others/Car Repair.md",
