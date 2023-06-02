@@ -6,4 +6,5 @@ Course select:
 
 Video:
 [uOttawa Engineering - Electrical, Software, Data Computer Science & more](https://www.youtube.com/watch?v=Bn7_fHcAiD4)
+[Search and Enrol in a Course](https://www.youtube.com/watch?v=v28eTBj7mT8)
 
