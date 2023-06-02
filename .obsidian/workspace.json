@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/Major.md",
+                "file": "docs/Kids/Career/UOttawa.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa8ae604b8c20a7c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Major.md",
+                "file": "docs/Kids/Career/UOttawa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Major.md",
+                "file": "docs/Kids/Career/UOttawa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Major.md"
+                "file": "docs/Kids/Career/UOttawa.md"
               }
             }
           }
@@ -154,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12554813d08702a8",
+  "active": "aa8ae604b8c20a7c",
   "lastOpenFiles": [
-    "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Major.md",
+    "docs/Kids/Career/UOttawa.md",
+    "docs/Kids/Career/Jobs.md",
     "docs/Home/Others/Car Repair.md",
     "docs/Home/IT/小工具.md",
     "docs/Home/Others/Next Car.md",
@@ -182,7 +194,6 @@
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
     "Daily Notes/2023-03-05.md",
-    "docs/Travel/BC.md",
     "docs/Home/Decoration",
     "docs/Kids/Career"
   ]
