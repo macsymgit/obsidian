@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md",
+                "file": "docs/Kids/Career/Major.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "168a3778b488b7df",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md",
+                "file": "docs/Kids/Career/Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md",
+                "file": "docs/Kids/Career/Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md"
+                "file": "docs/Kids/Career/Major.md"
               }
             }
           }
@@ -165,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "168a3778b488b7df",
+  "active": "12554813d08702a8",
   "lastOpenFiles": [
+    "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Major.md",
     "docs/Home/Others/Car Repair.md",
     "docs/Home/IT/小工具.md",
@@ -191,7 +181,6 @@
     "docs/Home/IT/ChatGPT.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
-    "docs/Kids/Career/Jobs.md",
     "Daily Notes/2023-03-05.md",
     "docs/Travel/BC.md",
     "docs/Home/Decoration",

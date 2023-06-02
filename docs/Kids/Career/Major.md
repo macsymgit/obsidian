@@ -7,3 +7,4 @@ Health Information Science (HINF) : UVic , SFU, UBC
 "金融投资"范围广，一般也就专注一个方面，了解一下UW farm 或mathematical finance
 FARM做金融投资后台，最后可以做基金经理. [post](https://www.rolia.net/f/topic.php?f=0&t=1276806)
 
+Waterloo SYDE的课程设计，是机电为主，兼顾了人文、计算机和AI的知识
