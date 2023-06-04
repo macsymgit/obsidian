@@ -27,11 +27,7 @@ Water Course:
 MAT1300  
 也就是微积分，适合高中数学就很好有基础的学弟学妹，记得要选KOUSHA的课哦，A飘过
 
-PHI1101  
-不文不理，快乐哲学课，是值得拥有的A plus神器，教授推荐Laura！
 
-SOC1101、SOC1106  
-考试只有选择题，全是题库出题，认准SAM教授有保障～
 
 ENG1112 Technical Report Writing
 ITI 1100 Digital Systems I
@@ -57,19 +53,28 @@ ITI 1100 Digital Systems I
 [Honours BSc Computer Science](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-computer-science/#programrequirementstext)
 [Honours BSc Computer Science, Data Science Option](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-computer-science/#programrequirementstext)
 
-Easy class
-Better in writing:
+Easy elective class
+If you better in writing:
 cmn1148
 cmn1160
 crm1300
 psy1101
 psy1102
 
-Better in Math:
+If you better in Math:
 ECO1102
 ECO1104
 MAT1300
 MAT1302
+
+
+PHI1101  
+enjoy the philosophy class, it is an A plus artifact worth having，professor Laura！
+
+SOC1101、SOC1106  
+Choice questions only. Professor SAM～
+
+
 
 [Rate my professor](https://www.ratemyprofessors.com/school/1452)  lower than 3 is bad
 
