@@ -34,6 +34,7 @@ SOC1101、SOC1106
 考试只有选择题，全是题库出题，认准SAM教授有保障～
 
 ENG1112 Technical Report Writing
+ITI 1100 Digital Systems I
 
 [Easy electives for a 1st year student](https://www.reddit.com/r/geegees/comments/rudauj/easy_electives_for_a_1st_year_student/)
 [渥太华大学公认10门“最难考试课程表](https://liuxue.xdf.cn/blog/lijuan29/blog/2606152.shtml)
@@ -50,3 +51,28 @@ ENG1112 Technical Report Writing
 
 
 渥大每年应该是$4K，四年合计1万六，算比较慷慨的啦。渥大Coop的合作单位很多（它家网站上应该有coop合作单位的名单），涵盖美国加拿大，再不济也可以进政府（每年名额不少，就是Pay不高，CS的学生们不喜）。渥大身居DT偏东，政府很多部门就在大学附近，coop结束，如果精力旺盛，上课时间还可以继续在政府打Part-time。毕竟首都，比肯斯顿大而且交通方便。渥大和皇后，前几年颜色都很白，近几年Mix了不少。如果法语不错，在渥大更具优势。
+
+
+[All Course](https://catalogue.uottawa.ca/en/courses/)
+[Honours BSc Computer Science](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-computer-science/#programrequirementstext)
+[Honours BSc Computer Science, Data Science Option](https://catalogue.uottawa.ca/en/undergrad/honours-bsc-computer-science/#programrequirementstext)
+
+Easy class
+Better in writing:
+cmn1148
+cmn1160
+crm1300
+psy1101
+psy1102
+
+Better in Math:
+ECO1102
+ECO1104
+MAT1300
+MAT1302
+
+[Rate my professor](https://www.ratemyprofessors.com/school/1452)  lower than 3 is bad
+
+Waiting List: if less then 20 , most likely join
+
+Also select winter term class
