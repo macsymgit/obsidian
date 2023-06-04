@@ -46,7 +46,6 @@ ENG1112 Technical Report Writing
 
 ### 5. Others
 [GPA Calculator (University of Ottawa)](https://gradecalc.info/ca/on/uottawa/gpa_calc.pl)
-
 [加拿大渥太华大学GPA低被退学怎么申诉](http://xhslink.com/4T0xHq)
 
 
