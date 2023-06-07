@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md",
+                "file": "docs/Home/Cooking/Staple Food/Flour-made.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md",
+                "file": "docs/Home/Cooking/Staple Food/Flour-made.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md",
+                "file": "docs/Home/Cooking/Staple Food/Flour-made.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md"
+                "file": "docs/Home/Cooking/Staple Food/Flour-made.md"
               }
             }
           }
@@ -156,8 +156,10 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Kids/Career/Major.md",
     "docs/Kids/Career/UOttawa.md",
+    "docs/Home/Cooking/Staple Food/Flour-made.md",
+    "docs/Home/Cooking/Staple Food",
+    "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Home/Others/Car Repair.md",
     "docs/Home/IT/小工具.md",
@@ -182,7 +184,6 @@
     "docs/Home/IT/ChatGPT.md",
     "docs/Home/Decoration/Roofing.md",
     "docs/Home/Decoration/Roof",
-    "Daily Notes/2023-03-05.md",
     "docs/Home/Decoration",
     "docs/Kids/Career"
   ]
