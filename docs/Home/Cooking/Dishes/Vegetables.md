@@ -6,3 +6,9 @@
 
 [西红柿炒蛋](https://www.youtube.com/watch?v=k_YkQSTvjLk)
 
+[虎皮青椒](http://xhslink.com/nzpS3q](http://xhslink.com/nzpS3q)
+做法：  
+1️⃣先做一个料汁：碗中➕两勺生抽➕半勺老抽➕一勺蚝油➕一勺陈醋➕一勺糖➕一点盐。  
+2️⃣热油把辣椒炒成虎皮色➕蒜末炒香  
+3️⃣倒料汁炒均匀  
+4️⃣加入少许水炒到汤汁浓郁出锅
