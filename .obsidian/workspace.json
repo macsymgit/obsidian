@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Cooking/Staple Food/Flour-made.md",
+                "file": "docs/Home/IT/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Staple Food/Flour-made.md",
+                "file": "docs/Home/IT/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Staple Food/Flour-made.md",
+                "file": "docs/Home/IT/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Cooking/Staple Food/Flour-made.md"
+                "file": "docs/Home/IT/ChatGPT.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Kids/Career/UOttawa.md",
     "docs/Home/Cooking/Staple Food/Flour-made.md",
+    "docs/Kids/Career/UOttawa.md",
     "docs/Home/Cooking/Staple Food",
     "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
