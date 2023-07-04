@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md",
+                "file": "docs/Kids/Career/Major.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md",
+                "file": "docs/Kids/Career/Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md",
+                "file": "docs/Kids/Career/Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Jobs.md"
+                "file": "docs/Kids/Career/Major.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
+    "docs/Kids/Career/Jobs.md",
     "docs/Kids/Study/Tools.md",
     "docs/Kids/Career/UOttawa.md",
-    "docs/Kids/Career/Jobs.md",
     "docs/Job/IT/Shopify.md",
     "docs/Kids/Career/Major.md",
     "docs/Home/Cooking/Dishes/Fish.md",

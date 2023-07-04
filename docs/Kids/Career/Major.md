@@ -8,3 +8,10 @@ Health Information Science (HINF) : UVic , SFU, UBC
 FARM做金融投资后台，最后可以做基金经理. [post](https://www.rolia.net/f/topic.php?f=0&t=1276806)
 
 Waterloo SYDE的课程设计，是机电为主，兼顾了人文、计算机和AI的知识
+
+
+第一梯队: McMaster Health Science, Queens Commerce, UT ES, Waterloo SE, Waterloo CS(含CFM,DD)
+
+第二梯队: Western Medical Science, Western Ivey, UT Engineering, Waterloo Engineering, UT CS
+
+第三梯队: Queens Health Science, Waterloo AFM，McMaster Engineering, McMaster CS, Waterloo Math(含DD)
