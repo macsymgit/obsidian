@@ -15,3 +15,6 @@ Waterloo SYDE的课程设计，是机电为主，兼顾了人文、计算机和A
 第二梯队: Western Medical Science, Western Ivey, UT Engineering, Waterloo Engineering, UT CS
 
 第三梯队: Queens Health Science, Waterloo AFM，McMaster Engineering, McMaster CS, Waterloo Math(含DD)
+
+
+[10 Most Popular College Majors](https://www.coursera.org/articles/most-popular-college-majors)
