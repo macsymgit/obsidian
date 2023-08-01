@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ccd0276363179b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12554813d08702a8",
+  "active": "5ccd0276363179b0",
   "lastOpenFiles": [
     "docs/Kids/Career/Major.md",
     "docs/Home/Cooking/Dishes/Fish.md",
