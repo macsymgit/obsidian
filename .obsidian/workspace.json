@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Study/Tools.md",
+                "file": "docs/Kids/Career/UOttawa.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Study/Tools.md",
+                "file": "docs/Kids/Career/UOttawa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Study/Tools.md",
+                "file": "docs/Kids/Career/UOttawa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Study/Tools.md"
+                "file": "docs/Kids/Career/UOttawa.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Kids/Career/UOttawa.md",
     "docs/Kids/Study/Tools.md",
+    "docs/Kids/Career/UOttawa.md",
     "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Home/Others/Documents.md",
