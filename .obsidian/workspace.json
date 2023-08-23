@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md",
+                "file": "docs/Home/IT/小工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md",
+                "file": "docs/Home/IT/小工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md",
+                "file": "docs/Home/IT/小工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/UOttawa.md"
+                "file": "docs/Home/IT/小工具.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Kids/Study/Tools.md",
+    "docs/Home/IT/ChatGPT.md",
     "docs/Kids/Career/UOttawa.md",
+    "docs/Kids/Study/Tools.md",
     "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Home/Others/Documents.md",
@@ -168,7 +169,6 @@
     "docs/Job/IT/Shopify.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Cooking/Staple Food/Flour-made.md",
-    "docs/Home/IT/ChatGPT.md",
     "docs/Home/Cooking/Staple Food",
     "docs/Home/IT/小工具.md",
     "docs/Home/Others/Next Car.md",
