@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "56255f8b3b2b6121",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12554813d08702a8",
+  "active": "56255f8b3b2b6121",
   "lastOpenFiles": [
     "docs/Home/Others/Next Car.md",
     "docs/Home/Others/Tips.md",
