@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Others/Tips.md",
+                "file": "docs/Kids/Study/Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Others/Tips.md",
+                "file": "docs/Kids/Study/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Others/Tips.md",
+                "file": "docs/Kids/Study/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Others/Tips.md"
+                "file": "docs/Kids/Study/Tools.md"
               }
             }
           }
@@ -156,14 +156,14 @@
   },
   "active": "12554813d08702a8",
   "lastOpenFiles": [
-    "docs/Home/Others/Next Car.md",
+    "docs/Kids/Career/Major.md",
+    "docs/Kids/Career/UOttawa.md",
     "docs/Home/Others/Tips.md",
+    "docs/Home/Others/Next Car.md",
     "docs/Home/Others/Documents.md",
     "docs/Home/IT/小工具.md",
     "docs/Home/IT/ChatGPT.md",
-    "docs/Kids/Career/UOttawa.md",
     "docs/Kids/Study/Tools.md",
-    "docs/Kids/Career/Major.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Others/Car Repair.md",

@@ -7,7 +7,7 @@
 - [The good AI](https://www.the-good-ai.com/): 论文写作神器
 - [studocu](https://www.studocu.com/en-ca/home): Course quiz and note @@@@@@@@@
 - [scite ai](https://scite.ai/): academic research
-- 
+
 
 
 
