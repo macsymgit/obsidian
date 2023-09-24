@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Investment/GIC.md",
+                "file": "docs/Kids/Study/AI Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Investment/GIC.md",
+                "file": "docs/Kids/Study/AI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Investment/GIC.md",
+                "file": "docs/Kids/Study/AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Investment/GIC.md"
+                "file": "docs/Kids/Study/AI Tools.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "b4a34bdedc7bf0a1",
   "lastOpenFiles": [
+    "docs/Home/Investment/GIC.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Kids/Study/AI Tools.md",
     "docs/Kids/Study/Tools.md",
@@ -192,7 +193,6 @@
     "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
     "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
-    "docs/Home/Cooking/Dishes/Sea Food.md",
     "docs/Home/Decoration/Roof",
     "docs/Home/Decoration",
     "docs/Kids/Career"
