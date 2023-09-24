@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Study/AI Tools.md",
+                "file": "docs/Home/IT/小工具.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Study/AI Tools.md",
+                "file": "docs/Home/IT/小工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Study/AI Tools.md",
+                "file": "docs/Home/IT/小工具.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Study/AI Tools.md"
+                "file": "docs/Home/IT/小工具.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "b4a34bdedc7bf0a1",
   "lastOpenFiles": [
+    "docs/Kids/Study/AI Tools.md",
     "docs/Home/Investment/GIC.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
-    "docs/Kids/Study/AI Tools.md",
     "docs/Kids/Study/Tools.md",
     "docs/Kids/Career/Major.md",
     "docs/Kids/Career/UOttawa.md",
