@@ -14,3 +14,5 @@
 4️⃣加入少许水炒到汤汁浓郁出锅
 
 [蒜蓉茼蒿](https://www.youtube.com/watch?v=PjyKzG27wow)
+
+[醋溜白菜](https://www.youtube.com/watch?v=9KpXVQtHniA)
