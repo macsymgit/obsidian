@@ -10,7 +10,6 @@
    高压锅调制肉类排骨，压制三十分钟。排骨就好了。真的很简单易做。收汁八分钟。
 
 * 红烧肉
-	[红烧肉很多人做错了，大厨教正宗做法，色泽红亮，软糯入味超好吃](https://www.youtube.com/watch?v=yUpmXWMpL3E)
 	[红烧肉，这样烹饪不用加一滴油](https://www.youtube.com/watch?v=Bh7FjZ-W1IM)
 
 * 韩国骨头汤 
