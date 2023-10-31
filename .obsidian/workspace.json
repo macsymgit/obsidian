@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea65916fdf51c1b",
+        "id": "7c4af1e9efd77d95",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a34bdedc7bf0a1",
+            "id": "9e44784521b843b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4987b0d453303058",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4987b0d453303058",
+  "active": "9e44784521b843b3",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/IT/小工具.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Study/AI Tools.md",
     "docs/Home/Investment/GIC.md",
-    "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Kids/Study/Tools.md",
     "docs/Kids/Career/Major.md",
     "docs/Kids/Career/UOttawa.md",
