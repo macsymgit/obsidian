@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f27874dd2b9e40b",
+        "id": "07d503096111800b",
         "type": "tabs",
         "children": [
           {
-            "id": "7bb276b7771e10f0",
+            "id": "b8dfe706ce3604dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bb276b7771e10f0",
+  "active": "b8dfe706ce3604dd",
   "lastOpenFiles": [
-    "docs/Kids/Career/Major.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
+    "docs/Kids/Career/Major.md",
     "docs/Home/Cooking/Dishes/Fish.md",
     "conflict-files-obsidian-git.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
