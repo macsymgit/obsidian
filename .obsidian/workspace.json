@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/entertainment/Watching List.md",
+                "file": "docs/Kids/Career/Jobs.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/entertainment/Watching List.md",
+                "file": "docs/Kids/Career/Jobs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/entertainment/Watching List.md",
+                "file": "docs/Kids/Career/Jobs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/entertainment/Watching List.md"
+                "file": "docs/Kids/Career/Jobs.md"
               }
             }
           },
@@ -166,13 +166,16 @@
   },
   "active": "b8dfe706ce3604dd",
   "lastOpenFiles": [
-    "docs/Home/Cooking/Dishes/Pork Recipes.md",
+    "docs/Kids/Career/Jobs/Embedded.md",
+    "docs/Kids/Career/Jobs.md",
+    "docs/Kids/Career/Jobs",
     "docs/Kids/Career/Major.md",
+    "docs/entertainment/Watching List.md",
+    "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Cooking/Dishes/Fish.md",
     "conflict-files-obsidian-git.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/IT/小工具.md",
-    "docs/Kids/Career/Jobs.md",
     "docs/Kids/Study/AI Tools.md",
     "docs/Home/Investment/GIC.md",
     "docs/Kids/Study/Tools.md",
@@ -191,8 +194,6 @@
     "docs/Home/Decoration/Repair.md",
     "docs/Home/Decoration/Tools.md",
     "docs/Home/Decoration/Roof/Knowledge.md",
-    "docs/Home/Decoration/Roof/选屋顶公司几个小建议.md",
-    "docs/Home/Decoration/Roof/聊聊换屋顶的知识和注意事项.md",
     "docs/Home/Decoration/Roof",
     "docs/Home/Decoration",
     "docs/Kids/Career"
