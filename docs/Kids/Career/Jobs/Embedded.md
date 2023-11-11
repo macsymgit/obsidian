@@ -8,3 +8,10 @@ Embedded的职位其实比我想象中要多很多岗位来说确实很难像gen
 
 顺便说下，embedded, kernel O S这些领域，转码，非科班C S，E C E同学一般是干不了的，启点高
 
+---
+
+看看芯片行业的Physical design algorithm engineer 或者是Verification engineer。个人感觉这两者比较适合学CS的转。前者主要趋势是用Machine learning 去做芯片器件的布局布线等等，后者是写脚本与Test bench去验证设计中的缺陷。不知道🇺🇸的情况。但国内CS转EE，辅助项目经历，还是很不错的。
+
+ECE:
+
+
