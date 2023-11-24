@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
+                "file": "docs/Home/Cooking/Dishes/Vegetables.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "b8dfe706ce3604dd",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Kids/Career/Jobs/Embedded.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Jobs/Job Looking sites.md",
@@ -174,7 +175,6 @@
     "docs/Kids/Career/Jobs",
     "docs/Kids/Career/Major.md",
     "docs/entertainment/Watching List.md",
-    "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Home/Cooking/Dishes/Fish.md",
     "conflict-files-obsidian-git.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",

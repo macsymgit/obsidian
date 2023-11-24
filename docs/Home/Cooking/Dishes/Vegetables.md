@@ -16,3 +16,9 @@
 [蒜蓉茼蒿](https://www.youtube.com/watch?v=PjyKzG27wow)
 
 [醋溜白菜](https://www.youtube.com/watch?v=9KpXVQtHniA)
+
+气泡土豆
+1. 土豆去皮切厚块
+2. 用盐腌制10分钟
+3. 擦干水分
+4. 烤箱350度，烤15分钟,翻面再烤10分钟.
