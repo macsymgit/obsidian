@@ -11,9 +11,11 @@
             "id": "b8dfe706ce3604dd",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Cooking/Dishes/Sea Food.md"
               }
             }
           },
@@ -164,10 +166,12 @@
   },
   "active": "b8dfe706ce3604dd",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
+    "docs/Home/Cooking/Dishes/Pork Recipes.md",
+    "Daily Notes/Stock mindmap.md",
     "docs/Home/IT/ChatGPT.md",
     "docs/Home/IT/小工具.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
-    "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Kids/Career/Jobs/Embedded.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Jobs/Job Looking sites.md",
@@ -190,8 +194,6 @@
     "docs/Home/Cooking/Staple Food/Flour-made.md",
     "docs/Home/Cooking/Staple Food",
     "docs/Home/Decoration/Roof/Contractor.md",
-    "docs/Travel/Around Area.md",
-    "docs/Home/Decoration/Repair.md",
     "docs/Home/Decoration/Roof",
     "docs/Home/Decoration",
     "docs/Kids/Career"
