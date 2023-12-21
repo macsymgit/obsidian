@@ -53,6 +53,7 @@ mindmap-plugin: basic
     - Energy
 - VFV.TO
     - S&P 500 Index ETF
+- XQQ.TO
 
 ## Stock
 - National Bank
