@@ -11,11 +11,9 @@
             "id": "b8dfe706ce3604dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "docs/Kids/Career/Quant的工作内容.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily Notes/Stock mindmap.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Quant的工作内容.md",
+                "file": "Daily Notes/Stock mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Quant的工作内容.md",
+                "file": "Daily Notes/Stock mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Quant的工作内容.md"
+                "file": "Daily Notes/Stock mindmap.md"
               }
             }
           },
@@ -166,18 +164,19 @@
   },
   "active": "b8dfe706ce3604dd",
   "lastOpenFiles": [
+    "Daily Notes/Invest Strategy.md",
+    "Daily Notes/Stock mindmap.md",
+    "docs/Kids/Career/Quant的工作内容.md",
     "docs/attachments/什么专业的留学生最适合做quant？_4_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_3_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_2_孙居然Jerry_来自小红书网页版 (1).jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_2_孙居然Jerry_来自小红书网页版.jpg",
     "docs/Kids/Career/Jobs.md",
-    "docs/Kids/Career/Quant的工作内容.md",
     "docs/Kids/Career/Jobs/Major/硕士.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Kids/Career/Jobs/Job Tips.md",
     "docs/Kids/Career/Jobs/Major",
     "docs/Kids/Others/青春痘.md",
-    "Daily Notes/Stock mindmap.md",
     "docs/Home/Investment/Free Course.md",
     "docs/Kids/Others",
     "docs/Kids/Career/Jobs/Embedded.md",
