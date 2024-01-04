@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07d503096111800b",
+        "id": "ab586019b2e94a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "b8dfe706ce3604dd",
+            "id": "7b493f9854afa028",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
@@ -16,19 +16,8 @@
                 "file": "Daily Notes/Stock mindmap.md"
               }
             }
-          },
-          {
-            "id": "4f7b06b9b9a0a96e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,10 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f7b06b9b9a0a96e",
+  "active": "3b6e36077a971a83",
   "lastOpenFiles": [
-    "Daily Notes/Invest Strategy.md",
     "Daily Notes/Stock mindmap.md",
+    "Daily Notes/Invest Strategy.md",
     "docs/Kids/Career/Quant的工作内容.md",
     "docs/attachments/什么专业的留学生最适合做quant？_4_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_3_孙居然Jerry_来自小红书网页版.jpg",
