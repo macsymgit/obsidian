@@ -11,9 +11,11 @@
             "id": "7b493f9854afa028",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Kids/Career/Jobs/Major/Major.md"
               }
             }
           },
@@ -164,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b6e36077a971a83",
+  "active": "7b493f9854afa028",
   "lastOpenFiles": [
+    "docs/Kids/Career/UOttawa.md",
     "Daily Notes/Stock mindmap.md",
     "Daily Notes/Invest Strategy.md",
     "docs/Kids/Career/Quant的工作内容.md",
@@ -198,7 +201,6 @@
     "docs/Kids/Career/Jobs",
     "docs/entertainment/Watching List.md",
     "docs/Home/Cooking/Dishes/Fish.md",
-    "conflict-files-obsidian-git.md",
     "docs/Home/Cooking/Staple Food",
     "docs/Home/Decoration/Roof",
     "docs/Home/Decoration",
