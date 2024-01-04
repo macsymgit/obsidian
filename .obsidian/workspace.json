@@ -16,8 +16,19 @@
                 "file": "Daily Notes/Stock mindmap.md"
               }
             }
+          },
+          {
+            "id": "4f7b06b9b9a0a96e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -162,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8dfe706ce3604dd",
+  "active": "4f7b06b9b9a0a96e",
   "lastOpenFiles": [
     "Daily Notes/Invest Strategy.md",
     "Daily Notes/Stock mindmap.md",
