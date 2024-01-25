@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md"
+                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "7b493f9854afa028",
   "lastOpenFiles": [
-    "docs/Kids/Career/Jobs/Job look sites.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
+    "docs/Kids/Career/Jobs/Job look sites.md",
     "docs/Kids/Study/AI Tools.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/UOttawa.md",
