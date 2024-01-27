@@ -67,6 +67,6 @@ mindmap-plugin: basic
     - Bmo Monthly Income ETF
 - 50%大盘类, 25%成长类,25%价值类
     - 50% VOO
-    - 25% QQQM
+    - 25% QQQ
     - 25% SCHD
 - VDHG ?
