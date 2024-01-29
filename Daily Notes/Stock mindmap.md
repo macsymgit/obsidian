@@ -66,7 +66,7 @@ mindmap-plugin: basic
 - TSX:ZMI
     - Bmo Monthly Income ETF
 - 50%大盘类, 25%成长类,25%价值类
-    - 50% VOO  VFV.TO
+    - 50% VOO  VFV.TO
     - 25% QQQ XQQ.TO
-    - 25% SCHD
+    - 25% SCHD XIU
 - VDHG ?
