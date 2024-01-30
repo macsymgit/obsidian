@@ -11,9 +11,11 @@
             "id": "7b493f9854afa028",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Stock mindmap.md"
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
               }
             }
           },
@@ -166,6 +168,7 @@
   },
   "active": "7b493f9854afa028",
   "lastOpenFiles": [
+    "Daily Notes/Stock mindmap.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Kids/Career/Jobs/Job look sites.md",
@@ -175,7 +178,6 @@
     "docs/Kids/Career/Quant的工作内容.md",
     "docs/Job/IT/Shopify.md",
     "Daily Notes/Leon Class Pick.md",
-    "Daily Notes/Stock mindmap.md",
     "Daily Notes/Macsym Kanban.md",
     "Daily Notes/Invest Strategy.md",
     "docs/Home/Decoration/Tools.md",
