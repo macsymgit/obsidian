@@ -22,3 +22,5 @@
 2. 用盐腌制10分钟
 3. 擦干水分
 4. 烤箱350度，烤15分钟,翻面再烤10分钟.
+
+[烤土豆](https://www.youtube.com/watch?v=cx2cOSMGzzI)
