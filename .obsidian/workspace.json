@@ -11,11 +11,9 @@
             "id": "7b493f9854afa028",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily Notes/Stock mindmap.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
+                "file": "Daily Notes/Stock mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md",
+                "file": "Daily Notes/Stock mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Vegetables.md"
+                "file": "Daily Notes/Stock mindmap.md"
               }
             }
           },
@@ -166,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b493f9854afa028",
+  "active": "3b6e36077a971a83",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "Daily Notes/Stock mindmap.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
@@ -199,7 +198,6 @@
     "docs/Home/Decoration/furniture/Repair.md",
     "docs/Home/Decoration/Roof/Knowledge.md",
     "docs/Home/Decoration/Roof/Contractor.md",
-    "docs/Home/Cooking/Dishes/Sea Food.md",
     "docs/Kids/Career/Jobs",
     "docs/Home/Cooking/Staple Food",
     "docs/Home/Decoration/Roof",
