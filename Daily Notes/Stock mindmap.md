@@ -68,5 +68,5 @@ mindmap-plugin: basic
 - 50%大盘类, 25%成长类,25%价值类
     - 50% VOO  VFV.TO
     - 25% QQQ XQQ.TO
-    - 25% SCHD XIU, XEI, VDY
+    - 25% SCHD XIU, VGG
 - VDHG ?
