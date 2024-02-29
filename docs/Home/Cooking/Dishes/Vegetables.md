@@ -24,3 +24,5 @@
 4. 烤箱350度，烤15分钟,翻面再烤10分钟.
 
 [烤土豆](https://www.youtube.com/watch?v=cx2cOSMGzzI)
+
+[干锅菜花](https://www.youtube.com/watch?v=wsPbomlTzQU)
