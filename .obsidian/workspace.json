@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1599bd1c9c6eebed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b493f9854afa028",
+  "active": "1599bd1c9c6eebed",
   "lastOpenFiles": [
     "docs/Travel/YYZ Airport.md",
     "docs/Travel/Around Area.md",
