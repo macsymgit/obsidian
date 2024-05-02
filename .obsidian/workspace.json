@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3817cf80df8dcce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Cooking/Dishes/Beef Recipes.md"
+                "file": "docs/Kids/Career/Jobs/Major/Major.md"
               }
             }
           },
@@ -166,8 +177,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b493f9854afa028",
+  "active": "e3817cf80df8dcce",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "Daily Notes/Stock mindmap.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Travel/YYZ Airport.md",
@@ -186,7 +198,6 @@
     "docs/Home/Others/Next Car.md",
     "docs/Home/Others/Tips.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Kids/Career/Jobs/Job look sites.md",
     "docs/Kids/Study/AI Tools.md",
