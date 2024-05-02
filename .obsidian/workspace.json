@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Decoration/Roof/Contractor.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3817cf80df8dcce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Decoration/Roof/Contractor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Decoration/Roof/Contractor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md"
+                "file": "docs/Home/Decoration/Roof/Contractor.md"
               }
             }
           },
@@ -177,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3817cf80df8dcce",
+  "active": "7b493f9854afa028",
   "lastOpenFiles": [
+    "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "Daily Notes/Stock mindmap.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
@@ -198,7 +188,6 @@
     "docs/Home/Others/Next Car.md",
     "docs/Home/Others/Tips.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
-    "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Kids/Career/Jobs/Job look sites.md",
     "docs/Kids/Study/AI Tools.md",
     "docs/Kids/Career/Jobs.md",
