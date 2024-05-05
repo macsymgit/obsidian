@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md",
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Kids/Career/Jobs/Major/Major.md"
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "7b493f9854afa028",
   "lastOpenFiles": [
+    "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/attachments/Interactive Media Design.jpg",
     "docs/attachments/Urban Informatics and Smart Tech.jpg",
     "docs/attachments/Creative Computing.jpg",
@@ -181,7 +182,6 @@
     "docs/Home/Others/Car Repair.md",
     "docs/Home/Cooking/Dishes/Vegetables.md",
     "docs/Home/Decoration/Roof/Contractor.md",
-    "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "Daily Notes/Stock mindmap.md",
     "docs/Travel/YYZ Airport.md",
