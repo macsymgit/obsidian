@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Others/Grass Care Tips.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Home/Others/Grass Care Tips.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Home/Others/Grass Care Tips.md",
+                "file": "docs/Kids/Career/Jobs/Major/Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Home/Others/Grass Care Tips.md"
+                "file": "docs/Kids/Career/Jobs/Major/Major.md"
               }
             }
           },
@@ -168,8 +168,14 @@
   },
   "active": "7b493f9854afa028",
   "lastOpenFiles": [
-    "docs/Home/Others/Tips.md",
+    "docs/attachments/Interactive Media Design.jpg",
+    "docs/attachments/Urban Informatics and Smart Tech.jpg",
+    "docs/attachments/Creative Computing.jpg",
+    "docs/Home/IT/Private knowledge AI.md",
+    "docs/Home/IT/ChatGPT.md",
+    "docs/Home/IT/小工具.md",
     "docs/Home/Others/Grass Care Tips.md",
+    "docs/Home/Others/Tips.md",
     "docs/Home/Others/Next Car.md",
     "docs/Home/Others/Documents.md",
     "docs/Home/Others/Car Repair.md",
@@ -190,10 +196,6 @@
     "docs/Travel/BC.md",
     "docs/Travel/Restaurant.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
-    "docs/Kids/Career/Jobs/Job look sites.md",
-    "docs/Kids/Study/AI Tools.md",
-    "docs/Kids/Career/Jobs.md",
-    "docs/Kids/Career/UOttawa.md",
     "docs/attachments/什么专业的留学生最适合做quant？_4_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_3_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_2_孙居然Jerry_来自小红书网页版 (1).jpg",

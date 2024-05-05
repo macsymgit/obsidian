@@ -81,3 +81,9 @@ Waterloo SYDE的课程设计，是机电为主，兼顾了人文、计算机和A
 27. 🌟护理Nursing👩🏻‍⚕️  
 28. 🌟政治学Political Science  
 29. 🌟教育Education👩🏻‍🏫  
+
+---
+
+Urban Informatics and Smart Tech: ![[Urban Informatics and Smart Tech.jpg]]
+Interactive Media Design:![[Interactive Media Design.jpg]]
+Creative Computing: ![[Creative Computing.jpg]]
