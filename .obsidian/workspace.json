@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8b5e2e4d1ce8a6e1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b5e2e4d1ce8a6e1",
+  "active": "7b493f9854afa028",
   "lastOpenFiles": [
     "docs/Kids/Career/Jobs.md",
     "docs/Job/Job look sites.md",
