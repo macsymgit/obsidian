@@ -1,2 +1,0 @@
-[Otta](https://otta.com/)
-
