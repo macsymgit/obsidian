@@ -1,3 +1,4 @@
+说明对艺术与设计感兴趣。可以考虑钱多一点的设计专业, 比如人机交互设计, 游戏设计, 产品(工业)设计。 本科开设这些专业的有温哥华的Emily Carr University of Art and Design; Simon Fraser University; 安省Sheridan College, Ontario College of Art & Design University; University of Waterloo 的The Global Business and Digital Arts, 这个专业是在学校设计和商业学院里面的跨学科学科，课程内容包含了商业，计算机以及设计等多元素的专业知识, 带coop。约克大学的Design In Interactive Design。除此之外还有魁北克的一所英语大学, 海洋省的两所大学。除了Waterloo, 上述申请都需要作品集。
 
 Waterloo GBDA 人机交互设计
 可视化设计, 游戏设计，**虚拟现实设计**，移动应用设计，人机交互设计
