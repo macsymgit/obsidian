@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Major"
             }
-          },
-          {
-            "id": "08f6c1fa880e9d4b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08f6c1fa880e9d4b",
+  "active": "dd8bbe2b4366d6dd",
   "lastOpenFiles": [
     "docs/Kids/Career/Jobs/Embedded.md",
     "docs/Job/IT/Job Apply Tools.md",
