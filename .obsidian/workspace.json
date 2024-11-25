@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Shopify"
             }
+          },
+          {
+            "id": "c5bc943a691654ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71a825e3db35db41",
+  "active": "c5bc943a691654ce",
   "lastOpenFiles": [
     "docs/Job/IT/Job Apply Tools.md",
     "docs/Home/Investment/Fund to Invest.md",
