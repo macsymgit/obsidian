@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Investment/Dividend Fund.md",
+                "file": "docs/Job/Job look sites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dividend Fund"
+              "title": "Job look sites"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "11dae4a9fe9862f4",
   "lastOpenFiles": [
+    "docs/Home/Investment/Dividend Fund.md",
     "docs/Home/IT/ChatGPT.md",
     "docs/Home/IT/小工具.md",
     "docs/Job/Job look sites.md",
@@ -204,7 +205,6 @@
     "docs/Job/Volunteer Look sites.md",
     "docs/Home/Investment/GIC.md",
     "docs/Home/Investment/Free Course.md",
-    "docs/Home/Investment/Dividend Fund.md",
     "docs/Home/Investment/Fund to Invest.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
     "docs/Kids/Career/Jobs.md",

@@ -35,3 +35,17 @@ https://github.com/ReaVNaiL/New-Grad-2024?tab=readme-ov-file
 
 [refer.me](https://www.refer.me/): 这个可以说是内推神器，你可以在平台上选出你想要去的公司并且申请找人来内推。但这个功能需要付费，如果不付费的话一周只有1次内推的额度。
 
+
+[Career Edge](https://www.careeredge.ca/)（New Grad友好） 专门为NG提供intern机会，新人友好！有各种intern岗位，可以帮助我们获得宝贵的工作经验。 . 
+
+[TalentEgg](https://talentegg.ca/)（Entry-Level福音） 主打入门级职位、intern、Co-op，超适合求职萌新！针对年轻求职者提供intern机会、入门职位以及职业规划建议。 . 
+
+Charity Village（社科/文科生必看） 超多NGO & 慈善组织intern，文科生找专业对口工作的宝藏网站！提供志愿者岗位🧒适合想要积累经验、拓宽人脉、公益情怀的人士。 . 
+
+[Job Bank](https://www.jobbank.gc.ca/home)（公务员/GOV岗） lima雇主的特点上面会提示可以接受海外员工。想进GOV？适合找GOV实x.i & entry-level岗！ . 
+
+[InternJobs](https://www.internjobs.com/) 国际实x.i平台，各个行业的intern机会，可以帮助拓宽视野查询全球各地的intern机会，包括全职、part-time和暑期intern。 . 
+
+[Jobpostings.ca](https://www.applytoeducation.com/) 加拿大蕞大的学生求职平台，很多品牌企业都在这个网站找平假期工和平时PT，需要按照你的学历、工作地点和职业类型搜索。 . 
+
+[Eluta](https://www.eluta.ca/jobs)（直达官网） 能直接搜索公司官网的招聘信息，guarantee拿到蕞新职位。作为加拿大的招聘引擎汇集了不同平台的职位信息，可根据地理位置和关键词进行筛选，和许多知名公司合作。  
