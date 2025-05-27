@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Quant的工作内容"
             }
+          },
+          {
+            "id": "ef60207f43a0669a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cfe5c35a93c8754",
+  "active": "ef60207f43a0669a",
   "lastOpenFiles": [
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Jobs/Job Tips.md",
