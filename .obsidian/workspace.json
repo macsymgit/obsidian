@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "12ba8df27d9251dc",
+        "id": "e7243607c534f10b",
         "type": "tabs",
         "children": [
           {
-            "id": "0cfe5c35a93c8754",
+            "id": "a7ba91b553ca3c9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Kids/Career/Quant的工作内容.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Quant的工作内容"
-            }
-          },
-          {
-            "id": "ef60207f43a0669a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef60207f43a0669a",
+  "active": "a7ba91b553ca3c9b",
   "lastOpenFiles": [
+    "docs/Kids/Career/Quant的工作内容.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Jobs/Job Tips.md",
     "docs/Kids/Career/Jobs/Embedded.md",
@@ -223,7 +207,6 @@
     "docs/Kids/Career/UOttawa.md",
     "docs/Home/IT/Private knowledge AI.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
-    "docs/Kids/Career/Quant的工作内容.md",
     "docs/Kids/Career/Jobs/Job Looking sites.md",
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/attachments/Interactive Media Design.jpg",
