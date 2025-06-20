@@ -11,10 +11,14 @@
             "id": "a7ba91b553ca3c9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Home/Cooking/Dishes/Pork Recipes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pork Recipes"
             }
           }
         ]
@@ -185,6 +189,7 @@
   },
   "active": "a7ba91b553ca3c9b",
   "lastOpenFiles": [
+    "docs/Home/Cooking/Dishes/Chicken Recipes.md",
     "docs/Kids/Career/Quant的工作内容.md",
     "docs/Kids/Career/Jobs.md",
     "docs/Kids/Career/Jobs/Job Tips.md",
@@ -213,7 +218,6 @@
     "docs/attachments/Urban Informatics and Smart Tech.jpg",
     "docs/attachments/Creative Computing.jpg",
     "docs/Home/Others/Grass Care Tips.md",
-    "docs/Home/Others/Tips.md",
     "docs/attachments/什么专业的留学生最适合做quant？_4_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_3_孙居然Jerry_来自小红书网页版.jpg",
     "docs/attachments/什么专业的留学生最适合做quant？_2_孙居然Jerry_来自小红书网页版 (1).jpg",

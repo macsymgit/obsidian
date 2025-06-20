@@ -16,6 +16,7 @@
 
 * 红烧肉
 	[红烧肉，这样烹饪不用加一滴油](https://www.youtube.com/watch?v=Bh7FjZ-W1IM)
+	[紅燒肉這樣做，肥而不膩，唇齒留香](https://www.youtube.com/shorts/zTeAAZKSiIU)
 
 * 韩国骨头汤 
 	[韩国土豆脊骨汤](https://www.youtube.com/watch?v=NVGBVIrwMzI)
