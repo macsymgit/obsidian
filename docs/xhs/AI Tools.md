@@ -17,3 +17,4 @@ Claude Code 国内直通 KimiK2
 
 [claude-code-router](https://github.com/musistudio/claude-code-router/tree/main): 一款强大的工具，可将 Claude Code 请求路由到不同的模型，并自定义任何请求
 
+[XPack-MCP-Market](https://github.com/xpack-ai/XPack-MCP-Market): 帮助你在10分钟内快速搭建自己的 MCP 商店并立刻开始销售 MCP 服务。
