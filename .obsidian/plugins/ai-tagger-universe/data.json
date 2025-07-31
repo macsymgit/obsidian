@@ -1,0 +1,19 @@
+{
+  "serviceType": "cloud",
+  "localEndpoint": "http://localhost:11434/v1/chat/completions",
+  "localModel": "mistral",
+  "cloudEndpoint": "https://api.deepseek.com/v1/chat/completions",
+  "cloudApiKey": "sk-5d48f76b403e4d908ca860a342de24b3",
+  "cloudModel": "deepseek-chat",
+  "cloudServiceType": "deepseek",
+  "taggingMode": "generate",
+  "excludedFolders": [],
+  "language": "default",
+  "predefinedTagsPath": "",
+  "tagSourceType": "vault",
+  "tagDir": "",
+  "tagRangeMatchMax": 5,
+  "tagRangeGenerateMax": 5,
+  "tagRangePredefinedMax": 5,
+  "replaceTags": true
+}
