@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/xhs/Family.md",
+                "file": "docs/xhs/AI Stock Trading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Family"
+              "title": "AI Stock Trading"
             }
           }
         ]
@@ -191,8 +191,12 @@
   },
   "active": "9703463ab8c0c866",
   "lastOpenFiles": [
-    "docs/xhs/Self Hosting.md",
+    "docs/xhs/AI Tools.md",
+    "docs/xhs/Life.md",
+    "docs/xhs/Health.md",
     "docs/xhs/Family.md",
+    "docs/xhs/Bruce AI Job.md",
+    "docs/xhs/Self Hosting.md",
     "docs/xhs/AI Stock Trading.md",
     "docs/index.md",
     "docs/Home/IT/小工具.md",
@@ -214,10 +218,6 @@
     "docs/Home/Investment/Combination.md",
     "docs/Home/Investment/GIC.md",
     "docs/Home/Investment/Fund to Invest.md",
-    "docs/Home/Investment/Free Course.md",
-    "docs/Home/Investment/Dividend Fund.md",
-    "docs/Home/IT/ChatGPT.md",
-    "README.md",
     "docs/attachments/Interactive Media Design.jpg",
     "docs/attachments/Urban Informatics and Smart Tech.jpg",
     "docs/attachments/Creative Computing.jpg",
