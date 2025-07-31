@@ -13,3 +13,7 @@ Claude Code 国内直通 KimiK2
 
 [SeleniumBase](https://github.com/seleniumbase)：一站式 Python 浏览器自动化工具集
 
+[JoyAgent-JDGenie](https://github.com/jd-opensource/joyagent-jdgenie):  业界首个开源高完成度轻量化通用多智能体产品
+
+[claude-code-router](https://github.com/musistudio/claude-code-router/tree/main): 一款强大的工具，可将 Claude Code 请求路由到不同的模型，并自定义任何请求
+
