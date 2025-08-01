@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/xhs/Life.md",
+                "file": "docs/xhs/AI Stock Trading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Life"
+              "title": "AI Stock Trading"
             }
           }
         ]
@@ -191,12 +191,12 @@
   },
   "active": "9703463ab8c0c866",
   "lastOpenFiles": [
+    "docs/xhs/AI Tools.md",
+    "docs/xhs/Life.md",
     "docs/xhs/Leon Major.md",
     "docs/xhs/Bruce AI Job.md",
-    "docs/xhs/AI Tools.md",
     "docs/xhs/AI Stock Trading.md",
     "docs/xhs/Investment.md",
-    "docs/xhs/Life.md",
     "docs/xhs/Health.md",
     "docs/xhs/Family.md",
     "docs/xhs/Self Hosting.md",

@@ -13,6 +13,8 @@ tags:
 
 [Hummingbot](https://github.com/hummingbot/hummingbot): Hummingbot 是一个完全开源的量化交易框架，帮助用户轻松构建和部署高频加密货币交易机器人。
 
+[Freqtrade](https://github.com/freqtrade/freqtrade): 用 Python 编写的开源量化交易框架，专为加密货币交易设计。它支持 Binance、Bybit、KuCoin 等多个交易所，并可用于策略研究、回测、实盘交易等全流程开发。
+
 Quant求职有帮助的开源项目
 1. QuantLib
 简介：QuantLib 是一个用于量化金融计算的开源库，支持期权定价、风险管理等功能。
