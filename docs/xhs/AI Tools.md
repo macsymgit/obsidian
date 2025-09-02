@@ -24,3 +24,6 @@ Claude Code 国内直通 KimiK2
 2️⃣ 用xpack一键包装成MCP 不用自己开发！直接套壳，把API变成MCP格式 适合技术小白，5分钟搞定一个产品 
 3️⃣ 定价策略：溢价30%-50% 因为MCP的买家多是C端用户，对价格不敏感 比如原API 0.1元/次，MCP可以卖0.13-0.15元/次 利润直接拉满！
 4️⃣ 上架Agent商店，坐等收钱 比如AutoGPT、BabyAGI、GPTs商店等 审核通过后，就能被动收入了 💡 为什么这个模式能赚钱？ ✅ 零成本启动（API现成的，xpack免费） ✅ 躺赚模式（一次上架，长期收益） ✅ 蓝海市场（很多人还不知道MCP能这么玩） 🚀 现在入局正是时候！
+
+[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): GUI Agent and Vision into your terminal, computer, browser and product.
+
