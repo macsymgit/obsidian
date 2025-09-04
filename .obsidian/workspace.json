@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c6c89c421f1a0427",
+        "id": "4d711750b2cfb053",
         "type": "tabs",
         "children": [
           {
-            "id": "9703463ab8c0c866",
+            "id": "0f955364c4f0de71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/xhs/Bruce AI Job.md",
+                "file": "docs/xhs/Investment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bruce AI Job"
-            }
-          },
-          {
-            "id": "3bf50e6f68c77317",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Investment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,15 +190,15 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "3bf50e6f68c77317",
+  "active": "0f955364c4f0de71",
   "lastOpenFiles": [
+    "docs/xhs/AI Stock Trading.md",
+    "docs/xhs/Bruce AI Job.md",
     "docs/xhs/Family.md",
     "docs/xhs/Leon Major.md",
     "docs/xhs/Investment.md",
     "docs/xhs/AI Tools.md",
     "docs/Home/Cooking/Dishes/Chicken Recipes.md",
-    "docs/xhs/Bruce AI Job.md",
-    "docs/xhs/AI Stock Trading.md",
     "docs/xhs/屋顶.md",
     "docs/xhs/Life.md",
     "docs/xhs/Health.md",
