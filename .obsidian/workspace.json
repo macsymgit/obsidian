@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Bruce AI Job"
             }
+          },
+          {
+            "id": "3bf50e6f68c77317",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +83,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -179,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,7 +203,7 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "9703463ab8c0c866",
+  "active": "3bf50e6f68c77317",
   "lastOpenFiles": [
     "docs/xhs/Family.md",
     "docs/xhs/Leon Major.md",
