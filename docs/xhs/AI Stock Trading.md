@@ -7,6 +7,8 @@ tags:
   - algorithmic-trading
 ---
 
+[RD-Agent](https://github.com/macsymgit/RD-Agent): Quantitative Finance
+
 [TradingAgents](https://github.com/TauricResearch/TradingAgents):  以往的传统量化交易框架可能都是单Agent的，而这个则是多Agent的，角色包括—— 基本面分析师 情绪分析师 技术分析师 看涨和看跌 交易 风险管理和投资组合
 
 [TradingAgents 中文增强版](https://github.com/hsliuping/TradingAgents-CN): 基于多智能体大语言模型的**中文金融交易决策框架**。专为中文用户优化，提供完整的A股/港股/美股分析能力。

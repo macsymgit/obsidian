@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Home/Investment/GIC.md",
+                "file": "docs/xhs/AI Stock Trading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIC"
+              "title": "AI Stock Trading"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "0f955364c4f0de71",
   "lastOpenFiles": [
+    "docs/Home/Investment/GIC.md",
     "docs/Home/Investment/Fund to Invest.md",
     "docs/Home/Investment/Dividend Fund.md",
     "docs/Home/Investment/Combination.md",
@@ -218,7 +219,6 @@
     "docs/Home/Cooking/Dishes/Pork Recipes.md",
     "docs/Kids/Career/Jobs/Major/滑铁卢.md",
     "docs/Kids/Career/Jobs/Major/Major.md",
-    "docs/Kids/Career/Jobs/Job Tips.md",
     "docs/attachments/Interactive Media Design.jpg",
     "docs/attachments/Urban Informatics and Smart Tech.jpg",
     "docs/attachments/Creative Computing.jpg",
