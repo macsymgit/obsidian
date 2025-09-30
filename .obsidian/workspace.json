@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/xhs/Car repair.md",
+                "file": "docs/Kids/Career/OUAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Car repair"
+              "title": "OUAC"
             }
           }
         ]
@@ -192,8 +192,11 @@
   },
   "active": "da6c1dc8cce79637",
   "lastOpenFiles": [
-    "docs/xhs/Linkedin.md",
+    "docs/Kids/Career/Jobs/Major/滑铁卢.md",
+    "docs/Kids/Career/OUAC.md",
+    "docs/Kids/Career/Jobs/Major/Architecture and Architectural Engineering.md",
     "docs/xhs/Car repair.md",
+    "docs/xhs/Linkedin.md",
     "docs/xhs/Job Apply Tools.md",
     "docs/xhs/Bruce AI Job.md",
     "docs/xhs/Leon Major.md",
@@ -216,9 +219,6 @@
     "docs/Home/IT/Private knowledge AI.md",
     "docs/Job/IT/Job Apply Tools.md",
     "docs/Job/IT/Shopify.md",
-    "docs/Job/Job look sites.md",
-    "docs/Job/Volunteer Look sites.md",
-    "docs/Home/Cooking/Dishes/Beef Recipes.md",
     "docs/attachments/Interactive Media Design.jpg",
     "docs/attachments/Urban Informatics and Smart Tech.jpg",
     "docs/attachments/Creative Computing.jpg",
