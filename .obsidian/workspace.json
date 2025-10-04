@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "OUAC"
             }
+          },
+          {
+            "id": "3da731390c72c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "da6c1dc8cce79637",
+  "active": "3da731390c72c9b4",
   "lastOpenFiles": [
     "docs/Kids/Career/Jobs/Major/滑铁卢.md",
     "docs/Kids/Career/OUAC.md",
