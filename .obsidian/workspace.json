@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/OUAC.md",
+                "file": "docs/Kids/Career/uwaterloo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OUAC"
-            }
-          },
-          {
-            "id": "3da731390c72c9b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "uwaterloo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +190,10 @@
       "ai-tagger-universe:View tag relationships network": false
     }
   },
-  "active": "3da731390c72c9b4",
+  "active": "3b6e36077a971a83",
   "lastOpenFiles": [
     "docs/Kids/Career/Jobs/Major/滑铁卢.md",
-    "docs/Kids/Career/OUAC.md",
+    "docs/Kids/Career/uwaterloo.md",
     "docs/Kids/Career/Jobs/Major/Architecture and Architectural Engineering.md",
     "docs/xhs/Car repair.md",
     "docs/xhs/Linkedin.md",
