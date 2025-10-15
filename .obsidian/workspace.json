@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Kids/Career/文书.md",
+                "file": "docs/xhs/人生作弊指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文书"
+              "title": "人生作弊指南"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "c2b7a5db833dd9c1",
   "lastOpenFiles": [
-    "docs/Kids/Career/UOttawa.md",
     "docs/Kids/Career/文书.md",
+    "docs/xhs/人生作弊指南.md",
+    "docs/Kids/Career/UOttawa.md",
     "docs/Kids/Career/Architecture.md",
     "docs/xhs/Tax.md",
     "docs/xhs/Investment.md",
@@ -217,7 +218,6 @@
     "docs/xhs/Life.md",
     "docs/xhs/Health.md",
     "docs/xhs/Self Hosting.md",
-    "docs/index.md",
     "docs/xhs",
     "docs/attachments/Interactive Media Design.jpg",
     "docs/attachments/Urban Informatics and Smart Tech.jpg",
